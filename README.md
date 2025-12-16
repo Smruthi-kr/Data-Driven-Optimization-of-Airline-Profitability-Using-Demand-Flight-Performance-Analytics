@@ -1,10 +1,15 @@
 # Data Driven Optimization of Airline Profitability Using Passenger Demand and Flight Performance Analytics
 Enhancing Airline Profitability Through Demand-Based Flight Performance Analysis
+
 Airline operations are highly complex and capital-intensive, where profitability depends on optimal pricing, efficient seat utilization, and accurate demand forecasting. Many flights underperform due to suboptimal ticket pricing, low occupancy rates, or inefficient cost structures, leading to revenue losses despite high operational expenses.
+
 This project focuses on leveraging **data analytics** to evaluate airline revenue trends, passenger demand patterns, and cost structures in order to identify underperforming flights and propose data-driven strategies to improve overall airline profitability. By analyzing ticket reservations, revenue distribution across travel classes, expense patterns, and seat occupancy rates, the project aims to provide actionable insights that support better decision-making in airline pricing, capacity planning, and route management.
+
 This project employs ython and SQL to explore and visualize Airline Data.It includes Data Cleaning, EDA, Data Analysis, SQL Quering and Visualizations to provide insights into Occupancy Rate Analysis, Customer Experience Factors, Pricing Strategy Insights and Route Optimization Opportunities.
+
 The analysis simulates real-world airline challenges such as fluctuating demand, pricing competition, and operational costs, making the project highly relevant to commercial aviation and aerospace organizations like Airbus.
-The primary objectives of this project are:
+
+**The primary objectives of this project are:**
 
 1️⃣ **To analyze aircraft revenue trends and passenger demand patterns**
 * Understand revenue generation across different routes and time periods
@@ -31,6 +36,7 @@ The primary objectives of this project are:
 * Recommend measures to better align flight operations with passenger demand
 
 **Data Sources and Technologies Used**
+
 This project utilizes a SQLite database containing comprehensive airline data. To analyze this data, I've leveraged several powerful Python libraries within a Jupyter Notebook environment:
 
 * **sqlite3**: For establishing and managing the database connection
