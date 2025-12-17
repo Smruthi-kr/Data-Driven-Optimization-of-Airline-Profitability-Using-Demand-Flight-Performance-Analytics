@@ -46,7 +46,15 @@ This project utilizes a SQLite database containing comprehensive airline data. T
 * **seaborn and matplotlib**: For creating insightful data visualizations
 * **warnings**: For managing warning messages during the analysis process
 
+'''
+import pandas as pd
+import sqlite3
+# Connect to the database
+connection = sqlite3.connect('travel.sqlite') 
+cursor = connection.cursor()
+cursor.execute("select name from sqlite_master where type='table';") 
 
+'''
 
 
 
