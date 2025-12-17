@@ -9,8 +9,7 @@ This project employs ython and SQL to explore and visualize Airline Data.It incl
 
 The analysis simulates real-world airline challenges such as fluctuating demand, pricing competition, and operational costs, making the project highly relevant to commercial aviation and aerospace organizations like Airbus.
 
-<img width="1160" height="700" alt="image" src="https://github.com/user-attachments/assets/325be580-feec-4016-80e4-2588b2bb2bf6" />
-
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/cc39682a-ff20-4dff-ad2a-c422b7796a95" />
 
 **The primary objectives of this project are:**
 
